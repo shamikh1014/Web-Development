@@ -1,0 +1,125 @@
+html{
+	font-size:30px;
+}
+
+/*#div1{*/
+
+/*	height:4rem;*/
+
+	/*75vh;*/
+	/*200px;*/
+
+/*	width:6rem;*/
+
+	/*100vw;*/
+	/*300px;*/
+
+/*	background-color:#393a7b;*/
+
+	/*hsl();*/
+	/*rgba(25, 126, 200, 1);*/
+	/*red;*/
+
+	/*border-width:2px 4px 6px 8px;*/
+	/*border-style:solid;*/
+	/*border-color:red;*/
+
+/*	border:4px solid red;*/
+/*	border-radius:4px;*/
+
+/*}*/
+
+/*#div2{
+	height:50%;
+	width:50%;
+	background-color:cyan;
+}*/
+
+/*#sample-para{*/
+
+	/*border:2px solid red;*/
+	/*border-left:4px solid red;*/
+
+/*	font-size:30px;*/
+/*	color:blue;*/
+/*	font-weight:700;*/
+/*	text-align:justify;*/
+/*	line-height:40px;*/
+/*	text-transform:uppercase;*/
+/*	text-decoration:underline;*/
+
+/*}*/
+
+/*#logo-img-container{*/
+
+/*	height:100vh;*/
+/*	width:100vw;*/
+
+	/*background-image:url("image/logo_switchtocode.png");*/
+
+/*	background-image:url("image/macbook_mouse.jpg");*/
+
+/*	background-repeat:no-repeat;*/
+	/*repeat*/
+
+	/*background-position:center;*/
+	/*background-size:200px 300px;*/
+	/*contain;*/
+	/*cover;*/
+
+/*	background-size:contain;*/
+/*	background-attachment:fixed;*/
+
+	/*scroll*/
+
+/*}*/
+
+/*#outer-div1{*/
+
+/*	height:200px;*/
+/*	width:200px;*/
+/*	background-color:#393a7b;*/
+
+	/*margin:4px 10px 20px 30px;*/
+	/*margin:auto;*/
+	/*margin-top:10px;*/
+
+/*	margin-bottom:20px;*/
+/*	padding:20px 10px 5px 25px;*/
+
+/*}*/
+
+/*#inner-div1{
+	height:50%;
+	width:50%;
+	background-color:cyan;
+}*/
+
+/*#outer-div2{
+	height:200px;
+	width:200px;
+	background-color:orange;
+	margin-top:10px;
+}*/
+
+#div1{
+	background-color:red;
+	height:200px;
+	width:200px;
+}
+
+#div2{
+	background-color:cyan;
+	height:200px;
+	width:200px;
+	margin-left:-4px;
+}
+
+span{
+	display:block;
+}
+
+div{
+	display:inline-block;
+}
+
